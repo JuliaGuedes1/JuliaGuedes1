@@ -9,7 +9,7 @@ I have experience in developing microservices using Java and Spring Boot, code m
 
 
 ## Links
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julia-guedes-velico)
 
 ### Credits
 Skills icons: https://github.com/tandpfun/skill-icons
