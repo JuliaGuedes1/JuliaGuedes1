@@ -8,10 +8,11 @@ I have experience in developing microservices using Java and Spring Boot, code m
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,kotlin,git,jenkins)](https://skillicons.dev)
 
 
-## Links
+## Contact
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julia-guedes-velico)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ### Credits
 Skills icons: https://github.com/tandpfun/skill-icons
 
-Links icons: https://github.com/iuricode/readme-template
+Contact icons: https://github.com/iuricode/readme-template
