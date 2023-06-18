@@ -6,6 +6,7 @@ I have experience in developing microservices using Java and Spring Boot, code m
 
 ## Skills
 [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws)](https://skillicons.dev)
 
 
 ## Links
