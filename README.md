@@ -8,7 +8,7 @@ I have experience in developing microservices using Java and Spring Boot, code m
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,kotlin,git,jenkins)](https://skillicons.dev)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselalhide=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact
